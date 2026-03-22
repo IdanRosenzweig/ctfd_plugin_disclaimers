@@ -1,5 +1,5 @@
 # overview
-this repo contains a disclaimers plugin for the ctfd platform. you can use add freetext disclaimers to your chioce.
+this repo contains a disclaimers plugin for the ctfd platform. you can use add freetext disclaimers to your choice.
 
 # use
 to use the plugin, simply put the repo inside the plugins directory
